@@ -1,22 +1,22 @@
 body{
-    margin: 7;
+    margin: 0;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-color: #59706f;
-    color: rgb(28, 31, 26);
+    background-color: rgb(142, 215, 223);
+    color: rgb(8, 9, 7);
 }
 h1{
     text-align: center;
-    background-color: rgb(128, 130, 240);
+    background-color: rgb(126, 128, 188);
     color:white;
 }
 h2{
     text-align: center;
-    background-color: rgb(16, 4, 6);
+    background-color: rgb(66, 141, 207);
     color: white;
 }
 .center{
