@@ -1,0 +1,24 @@
+body{
+    margin: 7;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #59706f;
+    color: rgb(28, 31, 26);
+}
+h1{
+    text-align: center;
+    background-color: rgb(128, 130, 240);
+    color:white;
+}
+h2{
+    text-align: center;
+    background-color: rgb(16, 4, 6);
+    color: white;
+}
+.center{
+    display: inline-block;
+}
